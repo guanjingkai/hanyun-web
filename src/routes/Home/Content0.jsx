@@ -51,15 +51,15 @@ class Content extends React.Component {
               <div className="item-title">体育</div>
             </div>
             <div className="item item-2" key="b">
-              <div className="item-icon icon-tiyu"></div>
+              <div className="item-icon icon-lingshou"></div>
               <div className="item-title">零售</div>
             </div>
             <div className="item item-3" key="c">
-              <div className="item-icon icon-tiyu"></div>
+              <div className="item-icon icon-ertong"></div>
               <div className="item-title">儿童</div>
             </div>
             <div className="item item-4" key="d">
-              <div className="item-icon icon-tiyu"></div>
+              <div className="item-icon icon-canyin"></div>
               <div className="item-title">餐饮</div>
             </div>
             </QueueAnim>
